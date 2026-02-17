@@ -6,9 +6,6 @@ When any player dies, **every online player on the server instantly hears the ic
 
 This lightweight datapack turns ordinary deaths into server-wide memorable moments, perfect for hardcore, chaotic, fun, or "unstable" SMP servers.
 
-No auto-kick, no punishment mechanics — just pure audio drama and a global announcement when someone falls.
-
-*(Add a screenshot here: full-server chat announcement + proof of everyone hearing the sound)*
 
 ## Features
 
